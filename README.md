@@ -11,7 +11,7 @@ This project uses a Recurrent Neural Network (RNN) to generate poetic text based
 ## Installation
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/poetic-text-generator.git
+    git clone https://github.com/Apollo-Blaze/poetic-text-generator.git
     ```
 2. Navigate to the project directory:
     ```bash
